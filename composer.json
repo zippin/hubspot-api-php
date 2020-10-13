@@ -1,5 +1,5 @@
 {
-    "name": "hubspot/api-client",
+    "name": "zippin/hubspot-api-client",
     "version": "2.1.0",
     "description": "Hubspot API client",
     "keywords": [
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.3",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
